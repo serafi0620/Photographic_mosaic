@@ -1,0 +1,1 @@
+npx wrangler pages deploy . --project-name=hi-blueming-photographic-mosaicc_mosaic
