@@ -6,13 +6,14 @@ import json
 from tqdm import tqdm
 
 PATH = "dataset"
+SOURCE_JSON_PATH = "dataset/source.json"
 SCREENSHOT_PATH = "dataset/origin"
 
 ####################################################################################################
 # load data
 ####################################################################################################
 # playlist
-with open("source.json", 'r', encoding="utf-8") as f:
+with open(SOURCE_JSON_PATH, 'r', encoding="utf-8") as f:
     source = json.load(f)
 
 playlist = {}

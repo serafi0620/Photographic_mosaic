@@ -11,13 +11,14 @@ channel = {
     "otonosori": "https://www.youtube.com/@소리다시보기"
 }
 
+SOURCE_JSON_PATH = "dataset/source.json"
 SOURCE_PATH = "dataset/origin"
 
 ####################################################################################################
 # get youtube archive list
 ####################################################################################################
 # load record
-with open('source.json', 'r', encoding='utf-8') as f:
+with open(SOURCE_JSON_PATH, 'r', encoding='utf-8') as f:
     source = json.load(f)
 
 # get playlist
@@ -61,7 +62,7 @@ for i, (key, value) in enumerate(playlist_filted.items()):
             "title": video['title']
         })
         
-        with open('source.json', 'w', encoding="utf-8") as f:
+        with open(SOURCE_JSON_PATH, 'w', encoding="utf-8") as f:
             json.dump(source, f, indent="\t", ensure_ascii=False)
             
     print(f"skipped: {skipped}")
