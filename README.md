@@ -15,7 +15,7 @@
   <a href="https://www.youtube.com/watch?v=NTpZsN7qviE" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
   <a href="https://chzzk.naver.com/live/7b9c6553913c755812ef2cd9fbe1dc5c" target="_blank" style="text-decoration: none;"><img src="https://ssl.pstatic.net/static/nng/glive/icon/favicon.png" width="16" height="16" style="vertical-align: middle; border: none;"></a>
   <a href="https://x.com/otw_hane/with_replies" target="_blank" style="text-decoration: none;"><img src="https://abs.twimg.com/favicons/twitter.ico" width="16" height="16" style="vertical-align: middle; border: none;"></a>
-- **하루**: 
+- **온하루**: 
   <a href="https://www.youtube.com/@otw_onharu" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
   <a href="https://www.youtube.com/@otw_haru" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none; filter: grayscale(100%);" title="뮤직채널"></a>
   <a href="https://chzzk.naver.com/live/0f61ae00c2aef2b789dc009e51cbcc5a" target="_blank" style="text-decoration: none;"><img src="https://ssl.pstatic.net/static/nng/glive/icon/favicon.png" width="16" height="16" style="vertical-align: middle; border: none;"></a>
