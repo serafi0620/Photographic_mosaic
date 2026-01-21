@@ -1,5 +1,5 @@
 # **Photographic mosaic**
-![결과 샘플](https://raw.githubusercontent.com/serafi0620/Photographic_mosaic/main/dataset/outlook.png)
+![outlook](https://raw.githubusercontent.com/serafi0620/Photographic_mosaic/main/dataset/outlook.png)
 ![결과 샘플](https://raw.githubusercontent.com/serafi0620/Photographic_mosaic/main/dataset/savefig_default.png)
 
 - **Dataset size**: 6269
@@ -11,6 +11,7 @@
   김뒷태의이중생활 <a href="https://www.youtube.com/@김뒷태의이중생활" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a> / 
   소리다시보기 <a href="https://www.youtube.com/@소리다시보기" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
 - **Web viewer**: [cloudflare page](https://photographic-mosaic.pages.dev/)
+- **Demo**: <a href="https://colab.research.google.com/github/serafi0620/Photographic_mosaic/blob/main/3_HI_blueming_photographic_mosaic_fixed.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 # HI-Blueming
 - **하네**: 
   <a href="https://www.youtube.com/watch?v=NTpZsN7qviE" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
