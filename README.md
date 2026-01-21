@@ -9,13 +9,13 @@
   오프하루 <a href="https://www.youtube.com/@off_haru" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a> / 
   김뒷태의이중생활 <a href="https://www.youtube.com/@김뒷태의이중생활" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a> / 
   소리다시보기 <a href="https://www.youtube.com/@소리다시보기" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
-
+- **Web viewer**: [cloudflare page](https://photographic-mosaic.pages.dev/)
 # HI-Blueming
 - **하네**: 
   <a href="https://www.youtube.com/watch?v=NTpZsN7qviE" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
   <a href="https://chzzk.naver.com/live/7b9c6553913c755812ef2cd9fbe1dc5c" target="_blank" style="text-decoration: none;"><img src="https://ssl.pstatic.net/static/nng/glive/icon/favicon.png" width="16" height="16" style="vertical-align: middle; border: none;"></a>
   <a href="https://x.com/otw_hane/with_replies" target="_blank" style="text-decoration: none;"><img src="https://abs.twimg.com/favicons/twitter.ico" width="16" height="16" style="vertical-align: middle; border: none;"></a>
-- **하루**: 
+- **온하루**: 
   <a href="https://www.youtube.com/@otw_onharu" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
   <a href="https://www.youtube.com/@otw_haru" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none; filter: grayscale(100%);" title="뮤직채널"></a>
   <a href="https://chzzk.naver.com/live/0f61ae00c2aef2b789dc009e51cbcc5a" target="_blank" style="text-decoration: none;"><img src="https://ssl.pstatic.net/static/nng/glive/icon/favicon.png" width="16" height="16" style="vertical-align: middle; border: none;"></a>
@@ -39,7 +39,7 @@
 | Folder & File  | Comment |
 | ------------- | ------------- |
 | dataset | output, png stuff |
-| hi-blueming-photographic-moaisc | sample result<br>(connected to cloudeflare page) |
+| hi-blueming-photographic-moaisc | sample result<br>(connected to cloudflare page) |
 | photographic_mosaic | python souce |
 | web-reference | base of web viewer<br>(step 3) |
 | configure.json | quality option<br>(step 1, 2) |
