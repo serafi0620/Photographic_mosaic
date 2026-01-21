@@ -1,4 +1,5 @@
 # **Photographic mosaic**
+![결과 샘플](https://raw.githubusercontent.com/serafi0620/Photographic_mosaic/main/dataset/outlook.png)
 ![결과 샘플](https://raw.githubusercontent.com/serafi0620/Photographic_mosaic/main/dataset/savefig_default.png)
 
 - **Dataset size**: 6269
