@@ -3,9 +3,7 @@
 
 - **Dataset size**: 6269
 - **Data collection period**: ~2026.01.03
-
 - **sample image**: 순연애의 잉곳 <a href="https://www.youtube.com/watch?v=POhyXqOgLBk&list=RDPOhyXqOgLBk&start_radio=1" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
-
 - **source**: 
   하네다시보기 <a href="https://www.youtube.com/@하네다시보기" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a> / 
   오프하루 <a href="https://www.youtube.com/@off_haru" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a> / 
