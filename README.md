@@ -9,7 +9,7 @@
   오프하루 <a href="https://www.youtube.com/@off_haru" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a> / 
   김뒷태의이중생활 <a href="https://www.youtube.com/@김뒷태의이중생활" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a> / 
   소리다시보기 <a href="https://www.youtube.com/@소리다시보기" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
-
+- **Web viewer**: [cloudflare page](https://photographic-mosaic.pages.dev/)
 # HI-Blueming
 - **하네**: 
   <a href="https://www.youtube.com/watch?v=NTpZsN7qviE" target="_blank" style="text-decoration: none;"><img src="https://www.google.com/s2/favicons?sz=64&domain=youtube.com" width="16" height="16" style="vertical-align: middle; border: none;"></a>
@@ -39,7 +39,7 @@
 | Folder & File  | Comment |
 | ------------- | ------------- |
 | dataset | output, png stuff |
-| hi-blueming-photographic-moaisc | sample result<br>(connected to cloudeflare page) |
+| hi-blueming-photographic-moaisc | sample result<br>(connected to cloudflare page) |
 | photographic_mosaic | python souce |
 | web-reference | base of web viewer<br>(step 3) |
 | configure.json | quality option<br>(step 1, 2) |
