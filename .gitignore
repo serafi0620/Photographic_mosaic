@@ -1,3 +1,4 @@
-/dataset
+/dataset/origin
+*.h5
 __pycache__/
 /backup
