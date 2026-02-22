@@ -9,7 +9,7 @@ def getYoutubeScreenshot(url, output_dir='', tag='youtube_screenshot', N=10):
     RETRY_DELAY = 0.1 # seconds
     
     ydl_opts = {
-        'format': 'bestvideo[ext=mp4]/best[ext=mp4]/best',
+        'format': 'best[ext=mp4]/best',
         'quiet': True,
         'js_architecture': 'subprocess', # Use subprocess for JS challenges
     }

@@ -50,8 +50,8 @@ for i, (key, value) in enumerate(playlist_filted.items()):
     print(f"steamer: {key} ({i+1}/4) - {len(value)}")
 
     path = os.path.join(SOURCE_PATH, key)
-    for j, video in tqdm(enumerate(value)):
-        #print('\r' + f'(skipped: {skipped}) process {j/len(value)*100:.1f}% ({j}/{len(value)}) : {video['url']} : ', end='')
+    for j, video in enumerate(value):
+        print('\r' + f'(skipped: {skipped}) process {j/len(value)*100:.1f}% ({j}/{len(value)}) : {video['url']} : ', end='')
         
         if (pm.getYoutubeScreenshot(video['url'], path) == 1): 
             skipped += 1
